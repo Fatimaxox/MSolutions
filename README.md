@@ -33,10 +33,6 @@ MSolutions is designed to be the ultimate toolkit for MS specialists, enabling t
 1. **Automatic Lesion Segmentation**: Identifies and segments infected lesions.
 2. **MS Type Classification**: Classifies the type of MS (RRMS, SPMS, PPMS) and differentiates MS from other conditions such as brain tumors.
 
-### Collaborative Effort 🤝
-
-This project is a collaboration with the MS department at King Fahad Specialized Hospital (KFSH) and supervised by two consultants who helped address the problem and find suitable solutions.
-
 ## Technical Details 🔧
 
 ### Classification
@@ -58,6 +54,27 @@ This project is a collaboration with the MS department at King Fahad Specialized
 ## Future Work 
 
 Our work is set to be tested and validated on real-life patients. We aim to explore other disciplines that could benefit from segmentation and classification improvements in MS cases. This is an actively developing area, and we are committed to contributing further.
+
+
+## Why MSolutions? 🤝
+
+Discover the reasons to choose MSolutions for revolutionizing MS diagnosis:
+
+### Cutting-edge Technology
+
+MSolutions leverages state-of-the-art AI algorithms and frameworks to deliver accurate and efficient MS lesion segmentation and classification.
+
+### Collaboration Excellence
+
+Our project is the result of a collaborative effort between AI experts, medical professionals, and data scientists. We ensure comprehensive solutions by working hand-in-hand with specialists from King Fahad Specialized Hospital (KFSH).
+
+### Recognized Achievements
+
+MSolutions has been recognized and nominated in prestigious competitions such as Women in Data Science (WiDS) 2024, the 6th National Computing College Conference, and She Codes 2024. Our commitment to excellence and innovation sets us apart.
+
+### Future-focused Development
+
+We are dedicated to continuous improvement and development. Our team is actively exploring new avenues in MS diagnosis and remains committed to contributing to the field.
 
 ## Collaboration Opportunities 💡
 
