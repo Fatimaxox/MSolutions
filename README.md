@@ -51,10 +51,6 @@ MSolutions is designed to be the ultimate toolkit for MS specialists, enabling t
 **Results**:
 - Achieved a loss of 13.93% and a dice score of 44.59% with 200 epochs.
 
-## Future Work 
-
-Our work is set to be tested and validated on real-life patients. We aim to explore other disciplines that could benefit from segmentation and classification improvements in MS cases. This is an actively developing area, and we are committed to contributing further.
-
 --- 
 ## Why MSolutions? 🤝
 
