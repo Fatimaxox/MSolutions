@@ -6,7 +6,7 @@ Welcome to the MSolutions repository. This project showcases the MSolutions tool
 
 ## Project Overview
 
-MSolutions is a collaborative effort by senior AI students at Imam Abdulrahman Bin Faisal University, College of Computer Science and Information Technology (CCSIT) in Dammam, Saudi Arabia. Our mission is to develop intelligent solutions for Multiple Sclerosis, a chronic disease affecting millions worldwide.
+MSolutions is a collaborative effort by senior AI students at Imam Abdulrahman Bin Faisal University, College of Computer Science and Information Technology (CCSIT) and the MS department at KFSH. Our mission is to develop intelligent solutions for Multiple Sclerosis, a chronic disease affecting millions worldwide.
 
 ## The Problem
 
