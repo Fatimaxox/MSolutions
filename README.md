@@ -55,7 +55,7 @@ MSolutions is designed to be the ultimate toolkit for MS specialists, enabling t
 
 Our work is set to be tested and validated on real-life patients. We aim to explore other disciplines that could benefit from segmentation and classification improvements in MS cases. This is an actively developing area, and we are committed to contributing further.
 
-
+--- 
 ## Why MSolutions? 🤝
 
 Discover the reasons to choose MSolutions for revolutionizing MS diagnosis:
