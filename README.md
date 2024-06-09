@@ -10,7 +10,7 @@ MSolutions is a collaborative effort by senior AI students at Imam Abdulrahman B
 
 ## The Problem 🧩
 
-<img src="https://cdn.bangkokhospital.com/2023/04/ms-pic2.jpeg" alt="Multiple Sclerosis" width="600">
+![Multiple Sclerosis](https://www.medicalnewstoday.com/articles/37556)
 
 Multiple Sclerosis (MS) is a chronic disease that affects approximately 2.9 million people worldwide as of 2024. It impacts the brain and spinal cord, leading to a variety of symptoms that can severely affect patients' daily lives, such as:
 - Dizziness
