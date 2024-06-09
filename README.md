@@ -32,26 +32,7 @@ MSolutions is designed to be the ultimate toolkit for MS specialists, enabling t
 
 1. **Automatic Lesion Segmentation**: Identifies and segments infected lesions.
 2. **MS Type Classification**: Classifies the type of MS (RRMS, SPMS, PPMS) and differentiates MS from other conditions such as brain tumors.
-
-## Technical Details 🔧
-
-### Classification
-
-- **Models Tested**: CNN, ResNet, DenseNet, EfficientNet
-- **Dataset**: 100% Saudi dataset with approximately 229 patients
-
-**Results**:
-- Achieved 96% F1 score and 97% recall with ResNetV101 as the best model.
-
-### Segmentation
-
-- **Framework Used**: MONAI for data preparation, preprocessing, and core development.
-- **Model**: Tested SegResNet from MONAI for MS case segmentation, which had previously won several competitions for similar problems like brain tumors. [Look here for more details](https://developer.nvidia.com/blog/nvidia-data-scientists-take-top-spots-in-miccai-2021-brain-tumor-segmentation-challenge/).
-
-**Results**:
-- Achieved a loss of 13.93% and a dice score of 44.59% with 200 epochs.
-
---- 
+ 
 ## Why MSolutions? 🤝
 
 Discover the reasons to choose MSolutions for revolutionizing MS diagnosis:
@@ -71,6 +52,24 @@ MSolutions has been recognized and nominated in prestigious competitions such as
 ### Future-focused Development
 
 We are dedicated to continuous improvement and development. Our team is actively exploring new avenues in MS diagnosis and remains committed to contributing to the field.
+
+## Technical Details 🔧
+
+### Classification
+
+- **Models Tested**: CNN, ResNet, DenseNet, EfficientNet
+- **Dataset**: 100% Saudi dataset with approximately 229 patients
+
+**Results**:
+- Achieved 96% F1 score and 97% recall with ResNetV101 as the best model.
+
+### Segmentation
+
+- **Framework Used**: MONAI for data preparation, preprocessing, and core development.
+- **Model**: Tested SegResNet from MONAI for MS case segmentation, which had previously won several competitions for similar problems like brain tumors. [Look here for more details](https://developer.nvidia.com/blog/nvidia-data-scientists-take-top-spots-in-miccai-2021-brain-tumor-segmentation-challenge/).
+
+**Results**:
+- Achieved a loss of 13.93% and a dice score of 44.59% with 200 epochs.
 
 ## Collaboration Opportunities 💡
 
