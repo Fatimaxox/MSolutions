@@ -1,6 +1,6 @@
 # MSolutions Toolkit: Where AI Brings Sparks of Hope
 
-![MSolutions](https://multiplesclerosisnewstoday.com/wp-content/uploads/2018/10/shutterstock_118491940.jpg)
+![MSolutions](https://sonographictendencies.files.wordpress.com/2021/03/ms-header.png?w=1400&h=400&crop=1)
 
 Welcome to the MSolutions repository. This project showcases the MSolutions toolkit, an innovative AI-driven solution designed to aid in the diagnosis and management of Multiple Sclerosis (MS).
 
