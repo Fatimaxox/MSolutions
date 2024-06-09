@@ -1,5 +1,7 @@
 # MSolutions Toolkit: Where AI Brings Sparks of Hope
 
+![MSolutions](https://multiplesclerosisnewstoday.com/wp-content/uploads/2018/10/shutterstock_118491940.jpg)
+
 Welcome to the MSolutions repository. This project showcases the MSolutions toolkit, an innovative AI-driven solution designed to aid in the diagnosis and management of Multiple Sclerosis (MS).
 
 ## Project Overview
@@ -7,6 +9,8 @@ Welcome to the MSolutions repository. This project showcases the MSolutions tool
 MSolutions is a collaborative effort by senior AI students at Imam Abdulrahman Bin Faisal University, College of Computer Science and Information Technology (CCSIT) in Dammam, Saudi Arabia. Our mission is to develop intelligent solutions for Multiple Sclerosis, a chronic disease affecting millions worldwide.
 
 ## The Problem
+
+![Multiple Sclerosis](https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20160809104603/ri/200/picture/2016/8/Multiple_Sclerosis_shutterstock_239380201.jpg)
 
 Multiple Sclerosis (MS) is a chronic disease that affects approximately 2.9 million people worldwide as of 2024. It impacts the brain and spinal cord, leading to a variety of symptoms that can severely affect patients' daily lives, such as:
 - Dizziness
@@ -72,4 +76,3 @@ For more information, please contact:
 ---
 
 All rights reserved to MSolutions team - Sparks
-```
