@@ -16,7 +16,7 @@ Multiple Sclerosis (MS) is a chronic disease that affects approximately 2.9 mill
 - Dizziness
 - General muscle weakness
 - Memory issues
-- And more
+And more
 
 ### Challenges in MS Diagnosis
 
