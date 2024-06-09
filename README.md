@@ -15,7 +15,7 @@ MSolutions is a collaborative effort by senior AI students at Imam Abdulrahman B
 Multiple Sclerosis (MS) is a chronic disease that affects approximately 2.9 million people worldwide as of 2024. It impacts the brain and spinal cord, leading to a variety of symptoms that can severely affect patients' daily lives, such as:
 - Dizziness
 - General muscle weakness
-- Memory issues
+- Memory issues <br>
 And more
 
 ### Challenges in MS Diagnosis
