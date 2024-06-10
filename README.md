@@ -77,7 +77,19 @@ We are open to collaborating with interested individuals and medical institution
 
 ## Acknowledgments 
 
-Special thanks to the hardworking AI team and our supervisor, Dr. Mustafa Youldash, for their unwavering support and dedication.
+Special thanks to the hardworking AI team and our supervisor, Dr. Mustafa Youldash, for their unwavering support and dedication. Also, heartfelt thanks to the MS consultants who made this contribution successful.
+
+*Department of Computer Engineering, College of Computer Science and Information Technology, Imam Abdulrahman Bin Faisal University*
+- [Mustafa Youldash](https://github.com/youldash)
+- [Fatima Algharash](https://github.com/Fatimaxox)
+- [Aseel Alqahtani](https://github.com/Aseellq)
+- Sara Al talib
+- Razan Alzahrani
+- Azzahra Alkhuridah
+- 
+*Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University*
+-  Dr. Foziah Alshamrani
+-  Dr. Zakia Yasawy
 
 ## Contact 📬
 
