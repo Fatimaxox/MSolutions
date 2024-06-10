@@ -88,8 +88,8 @@ Special thanks to the hardworking AI team and our supervisor, Dr. Mustafa Youlda
 - Azzahra Alkhuridah
 
 *Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University*
--  Dr. Foziah Alshamrani
--  Dr. Zakia Yasawy
+- Dr. Foziah Alshamrani
+- Dr. Zakia Yasawy
 
 ## Contact 📬
 
