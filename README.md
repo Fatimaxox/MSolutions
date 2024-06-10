@@ -86,7 +86,7 @@ Special thanks to the hardworking AI team and our supervisor, Dr. Mustafa Youlda
 - Sara Al talib
 - Razan Alzahrani
 - Azzahra Alkhuridah
-- 
+
 *Department of Neurology, College of Medicine, Imam Abdulrahman Bin Faisal University*
 -  Dr. Foziah Alshamrani
 -  Dr. Zakia Yasawy
@@ -98,10 +98,4 @@ For more information, please contact:
 - **Dr. Mustafa Youldash (Supervisor)**: [mmzyouldash@iau.edu.sa](mailto:mmzyouldash@iau.edu.sa)
 
 ---
-## Contributors
-Thanks to these wonderful people for their contributions:
-
-- [Mustafa Youldash](https://github.com/youldash)
-- [Aseel Alqahtani](https://github.com/Aseellq)
-
 All rights reserved to MSolutions team - Sparks
